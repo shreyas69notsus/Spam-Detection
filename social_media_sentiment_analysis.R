@@ -1,5 +1,5 @@
 # Project Title: Social Media Sentiment Analysis
-# Author: [Your Name]
+# Author: Shreyas
 # Date: 2024-06-14
 # Description: This script analyzes social media sentiment data, calculates descriptive statistics,visualizes data, and performs regression and hypothesis testing.
 
